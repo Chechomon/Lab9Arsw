@@ -5,4 +5,4 @@ Nombre:
 
 ## Diagram
 
-![](Activity Diagram0.png)
+![](ActivityDiagram0.png)
